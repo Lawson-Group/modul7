@@ -6,3 +6,6 @@ mhs.ReadJSON();
 
 TeamMembers_1302213038 team = new TeamMembers_1302213038();
 team.ReadJSON();
+
+GlossaryItem_1302213038 glo = new GlossaryItem_1302213038();
+glo.ReadJSON();
