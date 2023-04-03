@@ -16,7 +16,9 @@ namespace modul7_kelompok_2
             Console.WriteLine("Daftar Member: ");
             for (int i = 0; i < jsonObj.members.Count; i++)
             {
-                Console.WriteLine($"MK {i + 1} {jsonObj.members[i].nim} {jsonObj.members[i].firstName} {jsonObj.members[i].lastName} {jsonObj.members[i].age} {jsonObj.members[i].gender} ");
+                Console.WriteLine($"MK {i + 1} {jsonObj.members[i].nim} " +
+                    $"{jsonObj.members[i].firstName} {jsonObj.members[i].lastName} " +
+                    $"{jsonObj.members[i].age} {jsonObj.members[i].gender} ");
             }
         }
     }
