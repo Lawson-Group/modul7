@@ -6,5 +6,9 @@ class main
     {
         DataMahasiswa_1302210004 Dt = new DataMahasiswa_1302210004();
         Dt.ReadJSON();
+
+        Console.WriteLine(" ");
+        TeamMembers_1302210004 Tm = new TeamMembers_1302210004();
+        Tm.ReadJSON();
     }
 }
