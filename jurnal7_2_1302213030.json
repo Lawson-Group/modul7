@@ -1,0 +1,39 @@
+{
+  "members" : [
+    {
+       "firstName": "Aisha",
+       "lastName": "Putri Nuryan",
+       "gender": "Female",
+       "age": 19,
+       "nim": "1302213038"
+    },
+    {
+       "firstName": "Jannatin",
+       "lastName": "Nurrohmah",
+       "gender": "Female",
+       "age": 20,
+       "nim": "1302213051"
+    },
+    {
+      "firstName": "Jean",
+      "lastName": "Rika Haryadi",
+      "gender": "Female",
+      "age": 20,
+      "nim": "1302210004"
+    },
+    {
+      "firstName": "Muthia",
+      "lastName": "Khairunnisa",
+      "gender": "Female",
+      "age": 20,
+      "nim": "1302213062"
+    },
+    {
+      "firstName": "Novita",
+      "lastName": "Sabila Nugraha",
+      "gender": "Female",
+      "age": 20,
+      "nim": "1302213030"
+    }
+  ]
+}
