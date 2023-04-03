@@ -7,3 +7,6 @@ dataM.ReadJSON();
 
 TeamMembers1302213051 teamM = new TeamMembers1302213051();
 teamM.ReadJSON();
+
+GlossaryItem1302213051 glosI = new GlossaryItem1302213051();
+glosI.ReadJSON();
