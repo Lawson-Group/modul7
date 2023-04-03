@@ -1,0 +1,15 @@
+{
+   "firstName": "Jean",
+   "lastName": "Rika Haryadi",
+   "gender": "female",
+   "age": 20,
+   "address": {
+       "streetAddress": "Sukabirus",
+       "city": "Bandung",
+       "state": "West Java"
+   },
+   "courses": [
+       { "code": "CRI2C4", "name": "Konstruksi Perangkat Lunak" },
+       { "code": "CRIJ2H3", "name": "Pengalaman Pengguna" }
+   ]
+}
