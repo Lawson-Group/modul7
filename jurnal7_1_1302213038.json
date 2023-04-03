@@ -1,0 +1,15 @@
+{
+   "firstName": "Aisha",
+   "lastName": "Nuryan",
+   "gender": "female",
+   "age": 19,
+   "address": {
+       "streetAddress": "Bardan",
+       "city": "Bandung",
+       "state": "West Java"
+   },
+   "courses": [
+       { "code": "CRI2C4", "name": "Konstruksi Perangkat Lunak" },
+       { "code": "CRI2E4", "name": "Basis Data" }
+   ]
+}

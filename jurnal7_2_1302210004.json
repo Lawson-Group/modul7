@@ -1,0 +1,32 @@
+{
+  "members" : [
+    {
+       "firstName": "Aisha",
+       "lastName": "Putri Nuryan",
+       "gender": "female",
+       "age": 20,
+       "nim": "1302213038"
+    },
+    {
+       "firstName": "Jannatin",
+       "lastName": "Nurrohmah",
+       "gender": "female",
+       "age": 20,
+       "nim": "1302213051"
+    },
+    {
+       "firstName": "Muthia",
+       "lastName": "Khairunnisa",
+       "gender": "female",
+       "age": 20,
+       "nim": "1302213062"
+    },
+	{
+       "firstName": "Novita",
+       "lastName": "Salsabila Nugraha",
+       "gender": "female",
+       "age": 20,
+       "nim": "1302213030"
+    }
+  ]
+}
