@@ -11,3 +11,10 @@ Console.WriteLine();
 
 TeamMembers_1302213030 tm = new TeamMembers_1302213030();
 tm.ReadJSON();
+
+Console.WriteLine();
+Console.WriteLine("========================================================");
+Console.WriteLine();
+
+GlossaryItem_1302213030 gi = new GlossaryItem_1302213030();
+gi.ReadJSON();
