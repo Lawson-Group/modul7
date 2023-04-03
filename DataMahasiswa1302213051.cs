@@ -33,6 +33,8 @@ namespace modul7_kelompok_2
                 Console.WriteLine($"Matkul {i+1} {jsonObj.courses[i].code} - {jsonObj.courses[i].name}");
             }
 
+
+
         }
     }
 }
